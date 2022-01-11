@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="channel_name">com.example.flutter_app_notifs</string>
+    <string name="channel_description">\"Some Description\"</string>
+</resources>
